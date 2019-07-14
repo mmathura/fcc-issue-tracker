@@ -1,2 +1,2 @@
-# fcc-issue-tracker-
+# fcc-issue-tracker
 Issue Tracker - FreeCodeCamp 
